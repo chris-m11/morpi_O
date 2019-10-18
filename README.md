@@ -7,14 +7,10 @@ Rasalison Hajalalaina steven
 resource stackoverflow--google--
 quelque  code des collegues
 
-***Ce que le jeu fait:***
+***morpion:***
 
-1/ Il demande le nom de chaque joueur
+Deux joueurs s'affrontent. Ils doivent remplir chacun à leur tour une case de la grille avec le symbole qui leur est attribué : O ou X. Le gagnant est celui qui arrive à aligner trois symboles identiques, horizontalement, verticalement ou en diagonale.
 
-2/ Il tire au hasard celui qui commence
-
-3/ Il montre la grille et offre le choix de cases 1 à 9
-
-4/ Passe au tour suivant en changeant de joueur tant qu'il n'y a pas de victoire
+GOOD GAME
 
 
